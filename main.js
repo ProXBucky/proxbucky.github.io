@@ -9,3 +9,4 @@ signupBtn.onclick = () => {
 closeBtn.onclick = () => {
     modal.style.display = 'none';
 }
+
